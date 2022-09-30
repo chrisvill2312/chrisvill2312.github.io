@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.084bc426.css",
-    "main.js": "/static/js/main.d7851838.js",
+    "main.js": "/static/js/main.e8cc8457.js",
+    "static/media/SoyHenryPI.png": "/static/media/SoyHenryPI.3c86100dd51fb7282dcf.png",
     "static/media/me.png": "/static/media/me.24b3501af1bfc3da48e4.png",
     "static/media/about.jpg": "/static/media/about.a4461a6407a2d850af22.jpg",
     "static/media/landing.jpg": "/static/media/landing.a2b0e016244a00de4d8f.jpg",
@@ -9,10 +10,10 @@
     "static/media/CV-English.pdf": "/static/media/CV-English.57b2fd04461f0f9fd086.pdf",
     "index.html": "/index.html",
     "main.084bc426.css.map": "/static/css/main.084bc426.css.map",
-    "main.d7851838.js.map": "/static/js/main.d7851838.js.map"
+    "main.e8cc8457.js.map": "/static/js/main.e8cc8457.js.map"
   },
   "entrypoints": [
     "static/css/main.084bc426.css",
-    "static/js/main.d7851838.js"
+    "static/js/main.e8cc8457.js"
   ]
 }
