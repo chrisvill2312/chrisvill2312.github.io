@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.084bc426.css",
-    "main.js": "/static/js/main.d34c7be7.js",
+    "main.css": "/static/css/main.53b6dced.css",
+    "main.js": "/static/js/main.adf6b908.js",
     "static/media/SoyHenryPI.png": "/static/media/SoyHenryPI.3c86100dd51fb7282dcf.png",
     "static/media/me.png": "/static/media/me.24b3501af1bfc3da48e4.png",
     "static/media/ec.png": "/static/media/ec.5b72d0dbe6ea4f297ce5.png",
@@ -10,11 +10,11 @@
     "static/media/ALBT.png": "/static/media/ALBT.408c05bd8c52904ad94f.png",
     "static/media/CV-English.pdf": "/static/media/CV-English.57b2fd04461f0f9fd086.pdf",
     "index.html": "/index.html",
-    "main.084bc426.css.map": "/static/css/main.084bc426.css.map",
-    "main.d34c7be7.js.map": "/static/js/main.d34c7be7.js.map"
+    "main.53b6dced.css.map": "/static/css/main.53b6dced.css.map",
+    "main.adf6b908.js.map": "/static/js/main.adf6b908.js.map"
   },
   "entrypoints": [
-    "static/css/main.084bc426.css",
-    "static/js/main.d34c7be7.js"
+    "static/css/main.53b6dced.css",
+    "static/js/main.adf6b908.js"
   ]
 }
