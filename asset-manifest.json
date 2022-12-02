@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.53b6dced.css",
-    "main.js": "/static/js/main.bb613fcd.js",
+    "main.js": "/static/js/main.07673aa8.js",
     "static/media/SoyHenryPI.png": "/static/media/SoyHenryPI.3c86100dd51fb7282dcf.png",
     "static/media/me.png": "/static/media/me.24b3501af1bfc3da48e4.png",
     "static/media/ec.png": "/static/media/ec.5b72d0dbe6ea4f297ce5.png",
@@ -11,10 +11,10 @@
     "static/media/ALBT.png": "/static/media/ALBT.408c05bd8c52904ad94f.png",
     "index.html": "/index.html",
     "main.53b6dced.css.map": "/static/css/main.53b6dced.css.map",
-    "main.bb613fcd.js.map": "/static/js/main.bb613fcd.js.map"
+    "main.07673aa8.js.map": "/static/js/main.07673aa8.js.map"
   },
   "entrypoints": [
     "static/css/main.53b6dced.css",
-    "static/js/main.bb613fcd.js"
+    "static/js/main.07673aa8.js"
   ]
 }
